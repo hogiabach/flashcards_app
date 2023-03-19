@@ -1,1 +1,11 @@
+.vscode/* 
+
 /venv
+__pycache__
+
+*.log
+*.pot
+*.pyc
+
+media
+db.sqlite3
